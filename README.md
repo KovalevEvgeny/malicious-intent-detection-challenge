@@ -6,7 +6,7 @@ To do:
 - concatenate model with simple features (convert hardcoded rule to nice feature)
 - feature generation, TF-IDF
 - make diverse models for stacking
-- more careful layers addition
+- more careful layers addition (think more what to add and how)
 - hyperparameters optimization
 
 
