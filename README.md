@@ -1,6 +1,8 @@
 # malicious-intent-detection-challenge
 https://www.kaggle.com/c/wallarm-ml-hackathon
 
+Metric: AUC-ROC
+
 To do:
 
 - concatenate model with simple features (convert hardcoded rule to nice feature)
@@ -12,6 +14,7 @@ To do:
 
 | Attempt | Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Folds|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
+|29|?|?|?|?|?|?|[CNN + LSTM + GRU Improved]|10|running...|
 |28|**0.9997558**|?|?|?|0.99983|1/11|[CNN + LSTM + GRU + Attention](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_Attention.py)|10|3:06|
 |27|0.9997032|?|?|**0.9999318**|0.99982|1/11|[LSTM + GRU + Attention (skip)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_Attention_skip.py)|10|5h|
 |25 |0.9997493|?|?|?|**0.99985**|  1/11 |[CNN + LSTM + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU.py)|10|?|
