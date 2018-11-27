@@ -10,8 +10,8 @@ To do:
 - hyperparameters optimization
 
 
-| Attempt | Mean Validation | Max Validation | Public | Place |Comment|Folds|
+| Attempt | Mean Validation | Max Validation | Public | Place |Comment|Folds|Runtime
 |---------|-----------------|----------------|--------|-------|-------|-|
-|27|**0.9997032**|**0.9999318**|0.99982|1/11|[LSTM + GRU + Attention (skip)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_Attention_skip.py)|10|
-|25 | ?    |     ?    | **0.99985**|  1/11 |[CNN + LSTM + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU.py)|10|
-|23|?|?|0.99980|2/11|[CNN + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_GRU_full.py)|5|
+|27|**0.9997032**|**0.9999318**|0.99982|1/11|[LSTM + GRU + Attention (skip)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_Attention_skip.py)|10|5h|
+|25 | ?    |     ?    | **0.99985**|  1/11 |[CNN + LSTM + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU.py)|10|?|
+|23|?|?|0.99980|2/11|[CNN + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_GRU_full.py)|5|?|
