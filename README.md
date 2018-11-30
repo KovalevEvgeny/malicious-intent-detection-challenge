@@ -12,12 +12,12 @@ To do:
 - hyperparameters optimization
 
 
-| Attempt | Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Folds|Runtime|
+| Attempt | Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
-|33|0.9997451|0.0001183|0.9995644|0.9999212|0.99980|1/12|[CNN + LSTM + GRU + BatchNorm]|10|4:47|
-|31|**0.9998148**|**0.0000936**|0.9995960|**0.9999355**|**0.99985**|1/12|[CNN + LSTM + GRU Tuned 2](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_3.py)|10|4:56|
-|29|0.9997988|0.0001029|**0.9996361**|0.9999263|**0.99985**|1/11|[CNN + LSTM + GRU Tuned](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_2.py)|10|5:36|
-|28|0.9997558|?|?|?|0.99983|1/11|[CNN + LSTM + GRU + Attention](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_Attention.py)|10|3:06|
-|27|0.9997032|?|?|0.9999318|0.99982|1/11|[LSTM + GRU + Attention (skip)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_Attention_skip.py)|10|5h|
-|25 |0.9997493|?|?|?|**0.99985**|  1/11 |[CNN + LSTM + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU.py)|10|?|
-|23|0.9997200|?|?|?|0.99980|2/11|[CNN + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_GRU_full.py)|5|?|
+|33|0.9997451|0.0001183|0.9995644|0.9999212|0.99980|1/12|[CNN + LSTM + GRU + BatchNorm]|4:47|
+|31|**0.9998148**|**0.0000936**|0.9995960|**0.9999355**|**0.99985**|1/12|[CNN + LSTM + GRU Tuned 2](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_3.py)|4:56|
+|29|0.9997988|0.0001029|**0.9996361**|0.9999263|**0.99985**|1/11|[CNN + LSTM + GRU Tuned](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_2.py)|5:36|
+|28|0.9997558|?|?|?|0.99983|1/11|[CNN + LSTM + GRU + Attention](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_Attention.py)|3:06|
+|27|0.9997032|?|?|0.9999318|0.99982|1/11|[LSTM + GRU + Attention (skip)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_Attention_skip.py)|5h|
+|25 |0.9997493|?|?|?|**0.99985**|  1/11 |[CNN + LSTM + GRU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU.py)|?|
+|23|0.9997200|?|?|?|0.99980|2/11|[CNN + GRU (5 folds)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_GRU_full.py)|?|
