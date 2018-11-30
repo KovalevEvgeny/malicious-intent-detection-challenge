@@ -10,6 +10,7 @@ To do:
 - make diverse models for stacking
 - more careful layers addition (think more what to add and how)
 - hyperparameters optimization
+- tune custom loss function (AUC-ROC): https://stackoverflow.com/questions/43818584/custom-loss-function-in-keras
 
 
 | Attempt | Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
