@@ -11,6 +11,8 @@ To do:
 - more careful layers addition (think more what to add and how)
 - hyperparameters optimization
 - tune custom loss function (AUC-ROC): https://stackoverflow.com/questions/43818584/custom-loss-function-in-keras
+- how the model actually predicts - maybe use weighted prediction
+- pick best fold to prediction
 
 
 | Attempt | Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
