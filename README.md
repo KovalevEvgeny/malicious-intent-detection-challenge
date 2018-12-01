@@ -12,7 +12,7 @@ To do:
 - hyperparameters optimization
 - tune custom loss function to penalize for FP
 - how the model actually predicts - maybe use weighted prediction
-- pick best fold to prediction
+- ~~pick best fold to prediction~~
 
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
