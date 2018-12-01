@@ -17,7 +17,7 @@ To do:
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
-|36|01.12|0.9997480|0.0001274|0.9994903|0.9999145|**0.99987**|1/14[CNN + LSTM + GRU + Simple Features (less)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat.py)|4:00|
+|36|01.12|0.9997480|0.0001274|0.9994903|0.9999145|**0.99987**|1/14|[CNN + LSTM + GRU + Simple Features (less)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat.py)|4:00|
 |35|01.12|**0.9998180**|0.0001142|0.9995086|0.9999222|0.99984|1/14|[CNN + LSTM + GRU + Simple Features + decoded](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addfeat_decoded.py)|5:12|
 |34|01.12|0.9997933|**0.0000790**|**0.9996502**|0.9998798|**0.99985**|1/14|[CNN + LSTM + GRU + Simple Features](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addfeat.py)|4:09|
 |33|30.11|0.9997451|0.0001183|0.9995644|0.9999212|0.99980|1/12|[CNN + LSTM + GRU + BatchNorm](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_4.py)|4:47|
