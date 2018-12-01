@@ -10,7 +10,7 @@ To do:
 - make diverse models for stacking
 - more careful layers addition (think more what to add and how)
 - hyperparameters optimization
-- tune custom loss function (AUC-ROC): https://stackoverflow.com/questions/43818584/custom-loss-function-in-keras
+- tune custom loss function to penalize for FP
 - how the model actually predicts - maybe use weighted prediction
 - pick best fold to prediction
 
