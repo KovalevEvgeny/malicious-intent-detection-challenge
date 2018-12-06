@@ -22,7 +22,7 @@ To do:
 - BatchNorm
 - ensembling
 
-* - ran on kaggle kernel
+*ran on kaggle kernel
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
