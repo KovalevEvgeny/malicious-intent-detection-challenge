@@ -6,16 +6,17 @@ Metric: AUC-ROC
 To do:
 
 - ~~concatenate model with simple features (convert hardcoded rule to nice feature)~~
-- feature generation, TF-IDF
+- ~~feature generation, TF-IDF~~
 - make diverse models for stacking
-- more careful layers addition (think more what to add and how)
+- ~~more careful layers addition (think more what to add and how)~~
 - hyperparameters optimization
 - tune custom loss function to penalize for FP
 - how the model actually predicts - maybe use weighted prediction
 - ~~pick best fold to prediction~~
 - preprocess texts (e.g. throw away \x08, ...)
 - drop duplicates
-
+- BatchNorm
+- ensembling
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
