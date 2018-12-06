@@ -26,7 +26,7 @@ To do:
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
-|-*|?|0.9994881|0.0001538|0.9992495|0.9997224|-|-|[GRU + GRU](https://www.kaggle.com/blackitten13/gru2xx/notebook)|7:14|
+|-*|07.12|0.9994881|0.0001538|0.9992495|0.9997224|-|-|[GRU + GRU](https://www.kaggle.com/blackitten13/gru2xx/notebook)|7:14|
 |44|07.12|0.9997476|0.0001214|0.9994907|**0.9999382**|0.99977|2/15|[CNN + LSTM + GRU + Simple Features + Drop Duplicates](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_feat_dupl.py)|3:49|
 |43|06.12|0.9995310|0.0001667|0.9992936|0.9998436|0.99957|2/15|[LSTM + GRU + CNN + Attention + Simple Features](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_CNN_Attention_feat.py)|14:22|
 |39|03.12|0.9998041|0.0001047|0.9995713|0.9999292|0.99984|1/15|[CNN + LSTM + GRU + Attention + Simple Features + ELU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_Attention_feat_elu.py)|4:47|
