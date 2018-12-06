@@ -3,7 +3,7 @@ https://www.kaggle.com/c/wallarm-ml-hackathon
 
 ### DAYS LEFT: 5
 
-### SUBMISSIONS LEFT: 27 = 5*5 + 2
+### SUBMISSIONS LEFT: 26 = 5*5 + 1
 
 Metric: AUC-ROC
 
@@ -24,7 +24,7 @@ To do:
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
-|?|06.12|0.9995310|0.0001667|0.9992936|0.9998436|?|?|[LSTM + GRU + CNN + Attention + Simple Features](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_CNN_Attention_feat.py)|14:22|
+|43|06.12|0.9995310|0.0001667|0.9992936|0.9998436|0.99957|2/15|[LSTM + GRU + CNN + Attention + Simple Features](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/LSTM_GRU_CNN_Attention_feat.py)|14:22|
 |39|03.12|0.9998041|0.0001047|0.9995713|0.9999292|0.99984|1/15|[CNN + LSTM + GRU + Attention + Simple Features + ELU](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_Attention_feat_elu.py)|4:47|
 |38|03.12|**0.9998239**|0.0000874|0.9996430|**0.9999381**|0.99984|1/15|[CNN + LSTM + GRU + Attention + Simple Features (less)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_Attention_feat.py)|5:35|
 |36|01.12|0.9997480|0.0001274|0.9994903|0.9999145|**0.99987**|1/14|[CNN + LSTM + GRU + Simple Features (less)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat.py)|4:00|
