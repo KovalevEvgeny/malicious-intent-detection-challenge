@@ -3,7 +3,7 @@ https://www.kaggle.com/c/wallarm-ml-hackathon
 
 ### DAYS LEFT: 5
 
-### SUBMISSIONS LEFT: 23 = 5*4 + 3 (today)
+### SUBMISSIONS LEFT: 22 = 5*4 + 2 (today)
 
 Metric: AUC-ROC
 
