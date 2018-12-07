@@ -18,8 +18,8 @@ To do:
 - how the model actually predicts - maybe use weighted prediction
 - ~~pick best fold to prediction~~
 - preprocess texts (e.g. throw away \x08, ...)
-- drop duplicates
-- BatchNorm
+- ~~drop duplicates~~
+- ~~BatchNorm~~
 - ensembling
 
 *ran on kaggle kernel
