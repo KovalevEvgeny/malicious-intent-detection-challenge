@@ -3,7 +3,7 @@ https://www.kaggle.com/c/wallarm-ml-hackathon
 
 ### DAYS LEFT: 3
 
-### SUBMISSIONS LEFT: 11 = 5*2 + 1 (today)
+### SUBMISSIONS LEFT: 10 = 5*2 + 0 (today)
 
 Metric: AUC-ROC
 
@@ -20,7 +20,7 @@ To do:
 - preprocess texts (e.g. throw away \x08, ...)
 - ~~drop duplicates~~
 - ~~BatchNorm~~
-- ensembling
+- ~~ensembling~~
 
 *ran on kaggle kernel
 
