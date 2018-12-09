@@ -3,7 +3,7 @@ https://www.kaggle.com/c/wallarm-ml-hackathon
 
 ### DAYS LEFT: 3
 
-### SUBMISSIONS LEFT: 15 = 5*2 + 5 (today)
+### SUBMISSIONS LEFT: 14 = 5*2 + 4 (today)
 
 Metric: AUC-ROC
 
@@ -26,6 +26,7 @@ To do:
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
+|55|09.12|0.9997720|0.0000935|0.9995489|0.9998735|0.99977|2/15|[CNN + LSTM + GRU + Simple Features (less) on New Data](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat_new.py)|4:22|
 |46|07.12|0.9997496|0.0001256|0.9995409|0.9998903|0.99919 (WTF)|2/15|[CNN + LSTM + GRU + Simple Features + BatchNorm](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_feat_bn.py)|5:01|
 |-*|07.12|0.9994881|0.0001538|0.9992495|0.9997224|-|-|[GRU + GRU](https://www.kaggle.com/blackitten13/gru2xx/notebook)|7:14|
 |44|07.12|0.9997476|0.0001214|0.9994907|**0.9999382**|0.99977|2/15|[CNN + LSTM + GRU + Simple Features + Drop Duplicates](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_feat_dupl.py)|3:49|
