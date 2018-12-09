@@ -1,9 +1,9 @@
 # malicious-intent-detection-challenge
 https://www.kaggle.com/c/wallarm-ml-hackathon
 
-### DAYS LEFT: 5
+### DAYS LEFT: 3
 
-### SUBMISSIONS LEFT: 20 = 5*4 + 0 (today)
+### SUBMISSIONS LEFT: 15 = 5*2 + 5 (today)
 
 Metric: AUC-ROC
 
