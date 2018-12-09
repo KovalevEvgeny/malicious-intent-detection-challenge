@@ -26,8 +26,8 @@ To do:
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
-|?|10.12|0.9997818|0.0000727|0.9996673|0.9998923|?|?|[CNN + LSTM + GRU + add 2 features + dropout 0.5 (OLD DATA)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_add2feat_dropout.py)|4:40|
-|57*|09.12|0.9997821|**0.0000675**|**0.9996554**|0.9998705|0.99935|3/15|[CNN + LSTM + GRU + Simple Features (less) (reproduce)](https://www.kaggle.com/blackitten13/cnn-lstm-gru-addlessfeat3)|4:53|
+|?|10.12|0.9997818|0.0000727|**0.9996673**|0.9998923|?|?|[CNN + LSTM + GRU + add 2 features + dropout 0.5 (OLD DATA)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_add2feat_dropout.py)|4:40|
+|57*|09.12|0.9997821|**0.0000675**|0.9996554|0.9998705|0.99935|3/15|[CNN + LSTM + GRU + Simple Features (less) (reproduce)](https://www.kaggle.com/blackitten13/cnn-lstm-gru-addlessfeat3)|4:53|
 |56|09.12|0.9997463|0.0001554|0.9994679|0.9999041|0.99981|3/15|[CNN + LSTM + GRU + Simple Features (less) on New Data (2)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat_new2.py)|4:43|
 |55|09.12|0.9997720|0.0000935|0.9995489|0.9998735|0.99977|2/15|[CNN + LSTM + GRU + Simple Features (less) on New Data](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat_new.py)|4:22|
 |46|07.12|0.9997496|0.0001256|0.9995409|0.9998903|0.99919 (WTF)|2/15|[CNN + LSTM + GRU + Simple Features + BatchNorm](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_feat_bn.py)|5:01|
