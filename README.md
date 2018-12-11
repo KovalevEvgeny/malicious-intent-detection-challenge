@@ -24,6 +24,9 @@ To do:
 
 *ran on kaggle kernel
 
+![](https://www.rcswebsites.com.au/wp-content/uploads/2016/02/tick_01.png)selected for final score
+
+
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
 |*69|12.12|0.9994598|0.0003587|0.9985959|0.9998135|0.99962|3/15|[CNN + LSTM + GRU + Capsule + All Features](https://www.kaggle.com/blackitten13/notebook-capsule/notebook?scriptVersionId=8341544)|5:42|
