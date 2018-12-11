@@ -3,7 +3,7 @@ https://www.kaggle.com/c/wallarm-ml-hackathon
 
 ### DAYS LEFT: 1
 
-### SUBMISSIONS LEFT: 5
+### SUBMISSIONS LEFT: 1
 
 Metric: AUC-ROC
 
