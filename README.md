@@ -26,6 +26,7 @@ To do:
 
 |Attempt|Date|Mean CV | Std CV| Min CV| Max CV | Public | Place |Comment|Runtime|
 |-|-|-|-|-|-|-|-|-|-|
+|68|11.12|0.9997471|0.0000907|0.9995510|0.9998646|0.99984|3/15|[CNN (different kernels) + LSTM + GRU + All Features](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat_new2_diffconv2.py)|7:19|
 |65|11.12|0.9997608|0.0000821|0.9996008|0.9999198|0.99983|3/15|[CNN (more different kernels) + LSTM + GRU + Simple Features](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat_new2_moreconv.py)|12:56|
 |61|10.12|0.9997723|0.0000844|0.9995620|0.9999125|0.99984|3/15|[CNN (different kernel shapes) + LSTM + GRU + Simple Features (less) (NEW DATA)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_addlessfeat_new2_diffconv.py)|9:12|
 |60|10.12|0.9997818|0.0000727|**0.9996673**|0.9998923|0.99985|3/15|[CNN + LSTM + GRU + add 2 features + dropout 0.5 (OLD DATA)](https://github.com/blacKitten13/malicious-intent-detection-challenge/blob/master/CNN_LSTM_GRU_add2feat_dropout.py)|4:40|
